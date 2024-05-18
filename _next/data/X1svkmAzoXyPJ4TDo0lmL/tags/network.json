@@ -1,0 +1,16 @@
+{
+  "pageProps": {
+    "posts": [
+      {
+        "title": "소켓과 서버-클라이언트 연결",
+        "date": "2024-05-19T00:00:00.000Z",
+        "tags": ["network", "socket"],
+        "draft": false,
+        "summary": "네트워크 프로그래밍에서의 소켓과 서버-클라이언트를 연결하기 위한 내용",
+        "slug": "network/240519 소켓과 서버-클라이언트 연결"
+      }
+    ],
+    "tag": "network"
+  },
+  "__N_SSG": true
+}
